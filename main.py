@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: lefteris
+@author: Ntovoris Eleftherios (lefteris)
 
 @subject: main section of Qapp
 """
